@@ -139,3 +139,55 @@ button {
 button:hover {
     background-color: #219150;
 }
+.hamburger {
+    display: none;
+    flex-direction: column;
+    cursor: pointer;
+    padding: 15px;
+}
+
+.hamburger span {
+    height: 3px;
+    width: 25px;
+    background: white;
+    margin: 4px 0;
+    border-radius: 2px;
+    transition: 0.4s;
+}
+
+.menu-toggle {
+    display: none;
+}
+
+@media (max-width: 768px) {
+    .menua {
+        position: relative;
+    }
+
+    .menua a {
+        display: none;
+        width: 100%;
+        text-align: center;
+        padding: 15px 0;
+    }
+
+    .hamburger {
+        display: flex;
+    }
+
+    .menu-toggle:checked ~ a {
+        display: block;
+    }
+
+    .menu-toggle:checked + .hamburger span:nth-child(1) {
+        transform: rotate(45deg) translate(10px, 10px);
+    }
+
+    .menu-toggle:checked + .hamburger span:nth-child(2) {
+        opacity: 0;
+    }
+
+    .menu-toggle:checked + .hamburger span:nth-child(3) {
+        transform: rotate(-45deg) translate(7px, -6px);
+    }
+}
