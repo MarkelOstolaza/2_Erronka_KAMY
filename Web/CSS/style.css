@@ -1,0 +1,139 @@
+
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.logoa {
+    background-color: rgb(17, 49, 101);
+}
+.menua {
+    background-color: rgb(58, 57, 57);
+    padding: 12px;
+    border-radius: 30px;
+    width: 90%;
+    text-align: center;
+}
+.menua a {
+    text-decoration: none;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 20px;
+    display: inline-block;
+    font-size: 150%;
+}
+.zatitu {
+    display: flex;
+    height: calc(100vh - 95px);
+    margin: 0;
+}
+.ezkerra {
+    flex: 0 0 65%;
+    background-color: rgb(130, 176, 200);
+    padding: 20px;
+}
+.eskubi {
+    flex: 0 0 35%;
+    background-color: gray;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    
+    
+}
+h1 {
+    font-size: 800%;
+    color: white;
+    text-align: center;
+}
+h2 {
+    text-align: center;
+    color: black;
+    font-size: 250%;
+    margin-top: 160px;
+} .pelis {
+    display: flex;              /* convierte en flexbox */
+    justify-content: center;    /* centra las películas horizontalmente */
+    gap: 75px;                  /* espacio entre cada película */
+    flex-wrap: wrap;            /* si la pantalla es pequeña, las películas bajan a otra línea */
+    margin-top: 20px;           /* espacio superior opcional */
+}
+.pelis a {
+    text-align: center;         /* centra el texto debajo de cada imagen */
+    text-decoration: none;      /* opcional: quita subrayado de los links */
+    color: black;               /* color del texto */
+}
+.pelis p {
+    color: white;
+}
+.pelis img {
+    border: 2px solid #000;    /* si quieres un marco alrededor de la imagen */
+    border-radius: 10px;        /* esquinas redondeadas opcional */
+}    
+.con-marco {
+    border: 5px solid #ffff;
+    padding: 10px;
+    border-radius: 10px;
+}
+.footer {
+    display: flex;                 /* activa Flexbox */
+    justify-content: space-between; /* separa los elementos horizontalmente */
+    align-items: center;            /* centra verticalmente los elementos */
+    padding: 20px;
+    background-color: #333;         /* color de fondo */
+    color: white;                   /* color del texto */
+    flex-wrap: wrap;                /* permite que bajen en pantallas muy pequeñas */
+    gap: 20px;
+}
+.footer .logo img {
+    max-height: 100px;               /* tamaño del logo */
+}
+.footer .links {
+    display: flex;
+    gap: 10px;                      /* espacio entre iconos */
+    
+}
+.footer .edukia p {
+    margin: 0;
+}
+.footer .legala {
+    display: flex;                  /* lista horizontal */
+    gap: 15px;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+label {
+    font-weight: bold;
+    display: block;
+    margin: 15px 0 5px;
+    color: white;
+    font-size: 160%;     
+}
+input[type="email"], input[type="pasahitza"], textarea {
+    width: 85%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background-color: #ffffff;
+    font-size: 160%;        
+}
+.eskubi label, .eskubi input {
+    margin-left: 40px;
+    margin-top: 15px;
+}
+button {
+    margin-top: 20px;
+    background-color: #27ae60;
+    color: #fff;
+    border: none;
+    padding: 12px 20px;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 16px;
+    margin-top: 80px;
+    width: 85%;
+}
+button:hover {
+    background-color: #219150;
+}
