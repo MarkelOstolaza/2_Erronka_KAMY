@@ -59,7 +59,6 @@ h2 {
     flex-wrap: wrap;
     margin-top: 20px;
     max-height: 100%; /* Asegura que no exceda el contenedor padre */
-    overflow-y: auto; /* Permite scroll si el contenido es muy largo */
 }
 .pelis a {
     text-align: center;         /* centra el texto debajo de cada imagen */
