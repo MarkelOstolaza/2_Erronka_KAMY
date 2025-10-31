@@ -1,0 +1,120 @@
+[08:42:07.341] [INFO @ main.utils.Data.init] Starting data population.
+[08:42:07.350] [INFO @ main.utils.Data.populateDays] Added "Astelehena" as "OPEN" to the list of weekdays.
+[08:42:07.352] [INFO @ main.utils.Data.populateDays] Added "Asteartea" as "OPEN" to the list of weekdays.
+[08:42:07.355] [INFO @ main.utils.Data.populateDays] Added "Asteazkena" as "OPEN" to the list of weekdays.
+[08:42:07.359] [INFO @ main.utils.Data.populateDays] Added "Osteguna" as "OPEN" to the list of weekdays.
+[08:42:07.360] [INFO @ main.utils.Data.populateDays] Added "Ostirala" as "OPEN" to the list of weekdays.
+[08:42:07.362] [INFO @ main.utils.Data.populateDays] Added "Larunbata" as "CLOSED" to the list of weekdays.
+[08:42:07.365] [INFO @ main.utils.Data.populateDays] Added "Igandea" as "CLOSED" to the list of weekdays.
+[08:42:07.371] [INFO @ main.utils.Data.populateDays] Successfully added 7 weekdays.
+[08:42:07.376] [INFO @ main.utils.Data.populateMovies] Added "Sonic 3: La película" to the list of movies.
+[08:42:07.383] [INFO @ main.utils.Data.populateMovies] Added "Cómo Entrenar a tu Dragón" to the list of movies.
+[08:42:07.384] [INFO @ main.utils.Data.populateMovies] Added "Wolfgang (Extraordinario)" to the list of movies.
+[08:42:07.386] [INFO @ main.utils.Data.populateMovies] Added "Capitán América: Brave New World" to the list of movies.
+[08:42:07.387] [INFO @ main.utils.Data.populateMovies] Added "Lilo y Stitch" to the list of movies.
+[08:42:07.388] [INFO @ main.utils.Data.populateMovies] Added "Una Película de Minecraft" to the list of movies.
+[08:42:07.389] [INFO @ main.utils.Data.populateMovies] Added "Misión: Imposible. Sentencia Final" to the list of movies.
+[08:42:07.391] [INFO @ main.utils.Data.populateMovies] Added "Padre no hay más que Uno 5" to the list of movies.
+[08:42:07.392] [INFO @ main.utils.Data.populateMovies] Added "Sirat" to the list of movies.
+[08:42:07.394] [INFO @ main.utils.Data.populateMovies] Added "El Casoplón" to the list of movies.
+[08:42:07.396] [INFO @ main.utils.Data.populateMovies] Added "Un Funeral de Locos" to the list of movies.
+[08:42:07.397] [INFO @ main.utils.Data.populateMovies] Added "Blancanieves" to the list of movies.
+[08:42:07.398] [INFO @ main.utils.Data.populateMovies] Added "Mufasa: El rey León" to the list of movies.
+[08:42:07.398] [INFO @ main.utils.Data.populateMovies] Added "Conclave" to the list of movies.
+[08:42:07.399] [INFO @ main.utils.Data.populateMovies] Added "Thunderbolt" to the list of movies.
+[08:42:07.400] [INFO @ main.utils.Data.populateMovies] Successfully added 15 movies.
+[08:42:07.409] [INFO @ main.utils.Data.populateSchedule] Starting schedule population.
+[08:42:07.414] [INFO @ main.utils.Data.populateSchedule] Added show "D1S1" to the list of shows.
+[08:42:07.415] [INFO @ main.utils.Data.populateSchedule] Added show "D1S2" to the list of shows.
+[08:42:07.417] [INFO @ main.utils.Data.populateSchedule] Added show "D1S3" to the list of shows.
+[08:42:07.421] [INFO @ main.utils.Data.populateSchedule] Added "Astelehena" to the schedule as day 1.
+[08:42:07.423] [INFO @ main.utils.Data.populateSchedule] Added show "D2S01" to the list of shows.
+[08:42:07.424] [INFO @ main.utils.Data.populateSchedule] Added show "D2S02" to the list of shows.
+[08:42:07.427] [INFO @ main.utils.Data.populateSchedule] Added show "D2S03" to the list of shows.
+[08:42:07.429] [INFO @ main.utils.Data.populateSchedule] Skipped "(M05) Capitán América: Brave New World" since it was already scheduled.
+[08:42:07.430] [INFO @ main.utils.Data.populateSchedule] Added show "D2S04" to the list of shows.
+[08:42:07.431] [INFO @ main.utils.Data.populateSchedule] Added show "D2S05" to the list of shows.
+[08:42:07.432] [INFO @ main.utils.Data.populateSchedule] Added show "D2S06" to the list of shows.
+[08:42:07.433] [INFO @ main.utils.Data.populateSchedule] Skipped "(M05) Capitán América: Brave New World" since it was already scheduled.
+[08:42:07.434] [INFO @ main.utils.Data.populateSchedule] Added show "D2S07" to the list of shows.
+[08:42:07.435] [INFO @ main.utils.Data.populateSchedule] Skipped "(M07) Una Película de Minecraft" since it was already scheduled.
+[08:42:07.436] [INFO @ main.utils.Data.populateSchedule] Skipped "(M08) Misión: Imposible. Sentencia Final" since it was already scheduled.
+[08:42:07.437] [INFO @ main.utils.Data.populateSchedule] Skipped "(M08) Misión: Imposible. Sentencia Final" since it was already scheduled.
+[08:42:07.438] [INFO @ main.utils.Data.populateSchedule] Added show "D2S08" to the list of shows.
+[08:42:07.439] [INFO @ main.utils.Data.populateSchedule] Skipped "(M05) Capitán América: Brave New World" since it was already scheduled.
+[08:42:07.441] [INFO @ main.utils.Data.populateSchedule] Skipped "(M06) Lilo y Stitch" since it was already scheduled.
+[08:42:07.442] [INFO @ main.utils.Data.populateSchedule] Skipped "(M07) Una Película de Minecraft" since it was already scheduled.
+[08:42:07.444] [INFO @ main.utils.Data.populateSchedule] Skipped "(M02) Sonic 3: La película" since it was already scheduled.
+[08:42:07.445] [INFO @ main.utils.Data.populateSchedule] Added show "D2S09" to the list of shows.
+[08:42:07.446] [INFO @ main.utils.Data.populateSchedule] Added show "D2S10" to the list of shows.
+[08:42:07.447] [INFO @ main.utils.Data.populateSchedule] Added show "D2S11" to the list of shows.
+[08:42:07.450] [INFO @ main.utils.Data.populateSchedule] Skipped "(M07) Una Película de Minecraft" since it was already scheduled.
+[08:42:07.452] [INFO @ main.utils.Data.populateSchedule] Skipped "(M03) Cómo Entrenar a tu Dragón" since it was already scheduled.
+[08:42:07.453] [INFO @ main.utils.Data.populateSchedule] Added show "D2S12" to the list of shows.
+[08:42:07.455] [INFO @ main.utils.Data.populateSchedule] Added "Asteartea" to the schedule as day 2.
+[08:42:07.456] [INFO @ main.utils.Data.populateSchedule] Added show "D3S1" to the list of shows.
+[08:42:07.461] [INFO @ main.utils.Data.populateSchedule] Added show "D3S2" to the list of shows.
+[08:42:07.462] [INFO @ main.utils.Data.populateSchedule] Added show "D3S3" to the list of shows.
+[08:42:07.463] [INFO @ main.utils.Data.populateSchedule] Added show "D3S4" to the list of shows.
+[08:42:07.464] [INFO @ main.utils.Data.populateSchedule] Skipped "(M14) Mufasa: El rey León" since it was already scheduled.
+[08:42:07.466] [INFO @ main.utils.Data.populateSchedule] Added show "D3S5" to the list of shows.
+[08:42:07.467] [INFO @ main.utils.Data.populateSchedule] Added show "D3S6" to the list of shows.
+[08:42:07.468] [INFO @ main.utils.Data.populateSchedule] Added show "D3S7" to the list of shows.
+[08:42:07.470] [INFO @ main.utils.Data.populateSchedule] Added show "D3S8" to the list of shows.
+[08:42:07.471] [INFO @ main.utils.Data.populateSchedule] Added "Asteazkena" to the schedule as day 3.
+[08:42:07.472] [INFO @ main.utils.Data.populateSchedule] Added show "D4S01" to the list of shows.
+[08:42:07.473] [INFO @ main.utils.Data.populateSchedule] Added show "D4S02" to the list of shows.
+[08:42:07.474] [INFO @ main.utils.Data.populateSchedule] Added show "D4S03" to the list of shows.
+[08:42:07.475] [INFO @ main.utils.Data.populateSchedule] Added show "D4S04" to the list of shows.
+[08:42:07.476] [INFO @ main.utils.Data.populateSchedule] Added show "D4S05" to the list of shows.
+[08:42:07.477] [INFO @ main.utils.Data.populateSchedule] Added show "D4S06" to the list of shows.
+[08:42:07.478] [INFO @ main.utils.Data.populateSchedule] Skipped "(M11) El Casoplón" since it was already scheduled.
+[08:42:07.479] [INFO @ main.utils.Data.populateSchedule] Added show "D4S07" to the list of shows.
+[08:42:07.481] [INFO @ main.utils.Data.populateSchedule] Added show "D4S08" to the list of shows.
+[08:42:07.482] [INFO @ main.utils.Data.populateSchedule] Added show "D4S09" to the list of shows.
+[08:42:07.484] [INFO @ main.utils.Data.populateSchedule] Skipped "(M09) Padre no hay más que Uno 5" since it was already scheduled.
+[08:42:07.485] [INFO @ main.utils.Data.populateSchedule] Skipped "(M09) Padre no hay más que Uno 5" since it was already scheduled.
+[08:42:07.486] [INFO @ main.utils.Data.populateSchedule] Added show "D4S10" to the list of shows.
+[08:42:07.489] [INFO @ main.utils.Data.populateSchedule] Added show "D4S11" to the list of shows.
+[08:42:07.491] [INFO @ main.utils.Data.populateSchedule] Skipped "(M11) El Casoplón" since it was already scheduled.
+[08:42:07.493] [INFO @ main.utils.Data.populateSchedule] Skipped "(M04) Wolfgang (Extraordinario)" since it was already scheduled.
+[08:42:07.494] [INFO @ main.utils.Data.populateSchedule] Skipped "(M08) Misión: Imposible. Sentencia Final" since it was already scheduled.
+[08:42:07.495] [INFO @ main.utils.Data.populateSchedule] Skipped "(M02) Sonic 3: La película" since it was already scheduled.
+[08:42:07.497] [INFO @ main.utils.Data.populateSchedule] Skipped "(M05) Capitán América: Brave New World" since it was already scheduled.
+[08:42:07.498] [INFO @ main.utils.Data.populateSchedule] Skipped "(M13) Blancanieves" since it was already scheduled.
+[08:42:07.498] [INFO @ main.utils.Data.populateSchedule] Skipped "(M12) Un Funeral de Locos" since it was already scheduled.
+[08:42:07.501] [INFO @ main.utils.Data.populateSchedule] Skipped "(M08) Misión: Imposible. Sentencia Final" since it was already scheduled.
+[08:42:07.502] [INFO @ main.utils.Data.populateSchedule] Added show "D4S12" to the list of shows.
+[08:42:07.503] [INFO @ main.utils.Data.populateSchedule] Skipped "(M05) Capitán América: Brave New World" since it was already scheduled.
+[08:42:07.504] [INFO @ main.utils.Data.populateSchedule] Added show "D4S13" to the list of shows.
+[08:42:07.504] [INFO @ main.utils.Data.populateSchedule] Skipped "(M13) Blancanieves" since it was already scheduled.
+[08:42:07.505] [INFO @ main.utils.Data.populateSchedule] Skipped "(M02) Sonic 3: La película" since it was already scheduled.
+[08:42:07.506] [INFO @ main.utils.Data.populateSchedule] Skipped "(M02) Sonic 3: La película" since it was already scheduled.
+[08:42:07.507] [INFO @ main.utils.Data.populateSchedule] Skipped "(M12) Un Funeral de Locos" since it was already scheduled.
+[08:42:07.509] [INFO @ main.utils.Data.populateSchedule] Added show "D4S14" to the list of shows.
+[08:42:07.510] [INFO @ main.utils.Data.populateSchedule] Added "Osteguna" to the schedule as day 4.
+[08:42:07.515] [INFO @ main.utils.Data.populateSchedule] Added show "D5S01" to the list of shows.
+[08:42:07.516] [INFO @ main.utils.Data.populateSchedule] Added show "D5S02" to the list of shows.
+[08:42:07.518] [INFO @ main.utils.Data.populateSchedule] Added show "D5S03" to the list of shows.
+[08:42:07.519] [INFO @ main.utils.Data.populateSchedule] Skipped "(M04) Wolfgang (Extraordinario)" since it was already scheduled.
+[08:42:07.520] [INFO @ main.utils.Data.populateSchedule] Added show "D5S04" to the list of shows.
+[08:42:07.521] [INFO @ main.utils.Data.populateSchedule] Added show "D5S05" to the list of shows.
+[08:42:07.522] [INFO @ main.utils.Data.populateSchedule] Added show "D5S06" to the list of shows.
+[08:42:07.523] [INFO @ main.utils.Data.populateSchedule] Added show "D5S07" to the list of shows.
+[08:42:07.526] [INFO @ main.utils.Data.populateSchedule] Added show "D5S08" to the list of shows.
+[08:42:07.527] [INFO @ main.utils.Data.populateSchedule] Skipped "(M04) Wolfgang (Extraordinario)" since it was already scheduled.
+[08:42:07.528] [INFO @ main.utils.Data.populateSchedule] Skipped "(M07) Una Película de Minecraft" since it was already scheduled.
+[08:42:07.531] [INFO @ main.utils.Data.populateSchedule] Added show "D5S09" to the list of shows.
+[08:42:07.532] [INFO @ main.utils.Data.populateSchedule] Skipped "(M03) Cómo Entrenar a tu Dragón" since it was already scheduled.
+[08:42:07.533] [INFO @ main.utils.Data.populateSchedule] Added show "D5S10" to the list of shows.
+[08:42:07.534] [INFO @ main.utils.Data.populateSchedule] Skipped "(M12) Un Funeral de Locos" since it was already scheduled.
+[08:42:07.535] [INFO @ main.utils.Data.populateSchedule] Added show "D5S11" to the list of shows.
+[08:42:07.536] [INFO @ main.utils.Data.populateSchedule] Added show "D5S12" to the list of shows.
+[08:42:07.537] [INFO @ main.utils.Data.populateSchedule] Skipped "(M14) Mufasa: El rey León" since it was already scheduled.
+[08:42:07.537] [INFO @ main.utils.Data.populateSchedule] Skipped "(M07) Una Película de Minecraft" since it was already scheduled.
+[08:42:07.537] [INFO @ main.utils.Data.populateSchedule] Skipped "(M04) Wolfgang (Extraordinario)" since it was already scheduled.
+[08:42:07.538] [INFO @ main.utils.Data.populateSchedule] Added show "D5S13" to the list of shows.
+[08:42:07.538] [INFO @ main.utils.Data.populateSchedule] Added "Ostirala" to the schedule as day 5.
+[08:42:07.539] [INFO @ main.utils.Data.populateSchedule] Skipped "Larunbata" since it was marked as "CLOSED".
+[08:42:07.540] [INFO @ main.utils.Data.populateSchedule] Skipped "Igandea" since it was marked as "CLOSED".
+[08:42:07.542] [INFO @ main.utils.Data.populateSchedule] Successfully generated schedules for 6 weekdays.
