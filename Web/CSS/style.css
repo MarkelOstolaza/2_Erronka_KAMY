@@ -111,7 +111,7 @@ label {
     font-size: 160%;     
 }
 input[type="email"], input[type="pasahitza"], textarea {
-    width: 85%;
+    width: 90%;
     padding: 10px;
     border: 1px solid #ccc;
     border-radius: 8px;
@@ -132,7 +132,7 @@ button {
     cursor: pointer;
     font-size: 16px;
     margin-top: 80px;
-    width: 85%;
+    padding: 60px 40px;
 }
 button:hover {
     background-color: #219150;
