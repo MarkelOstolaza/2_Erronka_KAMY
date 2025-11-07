@@ -1,8 +1,8 @@
 body {
     margin: 0;
     font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(17, 49, 101);
 }
-
 .logoa {
     background-color: rgb(17, 49, 101);
 }
@@ -10,7 +10,7 @@ body {
     background-color: rgb(58, 57, 57);
     padding: 12px;
     border-radius: 30px;
-    width: 90%;
+    width: 100%;
     text-align: center;
 }
 .menua a {
@@ -190,4 +190,55 @@ button:hover {
     .menu-toggle:checked + .hamburger span:nth-child(3) {
         transform: rotate(-45deg) translate(7px, -6px);
     }
+}
+.maitatuenak a {
+    text-align: center;
+    margin-bottom: 100px;
+    
+}
+.pelis {
+    display: flex;
+    flex-wrap: wrap;      
+    gap: 160px;            
+    justify-content: center;
+}
+.con-marco {
+    border: 5px solid #ffff;
+    padding: 10px;
+    border-radius: 10px;
+}
+.pelis a img {
+    transition: transform 0.3s ease; 
+}
+
+.pelis a img:hover {
+    transform: scale(1.1);
+    cursor: pointer;       
+}
+.pelis p {
+    color: white;
+    font-size: 30px;
+    font-family: Arial;
+}
+.besteak a {
+    text-align: center;
+    margin-bottom: 50px;
+}
+.peliss {
+    display: flex;
+    flex-wrap: wrap;      
+    gap: 160px;            
+    justify-content: center;
+} 
+.peliss a img {
+    transition: transform 0.3s ease; 
+} 
+.peliss a img:hover {
+    transform: scale(1.1);
+    cursor: pointer;       
+}
+.peliss p {
+    color: white;
+    font-size: 30px;
+    font-family: Arial;
 }
