@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="eu">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Kontaktua - Zinema Usurbil</title>
+    <link rel="stylesheet" href="CSS/style.css">
+</head>
+<body>
+    <header>
+        <div class="logoa"><img src="Img/logo.png" alt="logoa" width="75" height="75"></div>
+        <div class="menua">
+            <input type="checkbox" class="menu-toggle" id="menu-toggle">
+            <label for="menu-toggle" class="hamburger">
+                <span></span>
+                <span></span>
+                <span></span>
+            </label>
+            <a href="weborria.html">Hasiera</a>
+            <a href="kartelera.html">Kartelera</a>
+            <a href="generoak.html">Generoak</a>
+            <a href="kontaktua.html">Kontaktua</a>
+            <a href="saskia.html">Saskia</a>
+        </div>
+    </header>
+
+    <main style="padding:20px;color:white;">
+        <h1 style="text-align:center;margin-top:18px;">Kontaktua</h1>
+
+        <div style="max-width:600px;margin:30px auto;background:rgba(255,255,255,0.03);padding:30px;border-radius:12px;">
+            <form id="kontaktuaForm" style="display:flex;flex-direction:column;gap:15px;">
+                <div>
+                    <label for="izena" style="display:block;margin-bottom:8px;color:white;">Izena *</label>
+                    <input type="text" id="izena" name="izena" required style="width:100%;padding:10px;border-radius:6px;border:none;box-sizing:border-box;">
+                </div>
+
+                <div>
+                    <label for="email" style="display:block;margin-bottom:8px;color:white;">Posta elektronikoa *</label>
+                    <input type="email" id="email" name="email" required style="width:100%;padding:10px;border-radius:6px;border:none;box-sizing:border-box;">
+                </div>
+
+                <div>
+                    <label for="telefonoa" style="display:block;margin-bottom:8px;color:white;">Telefonoa</label>
+                    <input type="tel" id="telefonoa" name="telefonoa" style="width:100%;padding:10px;border-radius:6px;border:none;box-sizing:border-box;">
+                </div>
+
+                <div>
+                    <label for="gaia" style="display:block;margin-bottom:8px;color:white;">Gaia *</label>
+                    <input type="text" id="gaia" name="gaia" required style="width:100%;padding:10px;border-radius:6px;border:none;box-sizing:border-box;">
+                </div>
+
+                <div>
+                    <label for="mezkua" style="display:block;margin-bottom:8px;color:white;">Mezua *</label>
+                    <textarea id="mezkua" name="mezkua" rows="6" required style="width:100%;padding:10px;border-radius:6px;border:none;box-sizing:border-box;resize:vertical;"></textarea>
+                </div>
+
+                <button type="submit" style="background:#27ae60;color:white;padding:12px 20px;border-radius:8px;border:none;cursor:pointer;font-size:1rem;align-self:flex-end;">Bidali</button>
+            </form>
+        </div>
+
+        <div style="max-width:600px;margin:40px auto;color:white;text-align:center;">
+            <h2>Bestelako kontaktu bide:</h2>
+            <p><strong>Helbidea:</strong> Usurbil, Gipuzkoa</p>
+            <p><strong>Telefonoa:</strong> +34 943 XX XX XX</p>
+            <p><strong>Email:</strong> info@zinemausurbil.eus</p>
+        </div>
+    </main>
+
+    <footer class="footer">
+        <div class="logo"><a href=""><img src="Img/logo.png" alt="logoa"></a></div>
+        <div class="links">
+            <a href="https://www.instagram.com/"><img src="Img/insta.jpg" alt="insta" width="40" height="40"></a>
+            <a href="https://www.tiktok.com/es-419/"><img src="Img/tiktok.png" alt="tiktok" width="40" height="40"></a>
+            <a href="https://x.com/?lang=es"><img src="Img/twitter.png" alt="twitter" width="40" height="40"></a>
+            <a href="https://www.youtube.com/"><img src="Img/yt.png" alt="yt" width="40" height="40"></a>
+            <a href="https://es.linkedin.com/"><img src="Img/linkedin.png" alt="linkedin" width="40" height="40"></a>
+        </div>
+        <div class="edukia"><p>&copy;2025 Zinema Usurbil eduki desberdinak</p></div>
+        <ul class="legala">
+            <li>Ohar legala</li>
+            <li>Cookiak</li>
+            <li>Creative Commons</li>
+        </ul>
+    </footer>
+
+    <script src="JS/kontaktua.js"></script>
+</body>
+</html>
