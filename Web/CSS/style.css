@@ -224,21 +224,3 @@ button:hover {
     text-align: center;
     margin-bottom: 50px;
 }
-.peliss {
-    display: flex;
-    flex-wrap: wrap;      
-    gap: 160px;            
-    justify-content: center;
-} 
-.peliss a img {
-    transition: transform 0.3s ease; 
-} 
-.peliss a img:hover {
-    transform: scale(1.1);
-    cursor: pointer;       
-}
-.peliss p {
-    color: white;
-    font-size: 30px;
-    font-family: Arial;
-}
