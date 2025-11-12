@@ -3,7 +3,7 @@
     "tasks": [
         {
             "label": "Generate Javadoc",
-            "type": "shell",
+            "type": "process",
             "command": "javadoc",
             "args": [
                 "-d", "${workspaceFolder}/Desktop/docs",
@@ -14,9 +14,6 @@
                 "-docencoding", "UTF-8",
                 "-charset", "UTF-8",
                 "-nohelp",
-
-                // Log warnings as errors when compiling.
-                "-Werror"
             ],
             "problemMatcher": []
         }
