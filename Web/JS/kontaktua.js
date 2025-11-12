@@ -3,9 +3,8 @@ document.getElementById('kontaktuaForm').addEventListener('submit', function(e) 
     
     const izena = document.getElementById('izena').value;
     const email = document.getElementById('email').value;
-    const gaia = document.getElementById('gaia').value;
-    
-    alert('Eskerrik asko ' + izena + '!\n\nZure mezua bidali da arrakastaz.\n\nLaster kontaktatzuko zaitugu ' + email + ' helbidean.');
-    
+
+    alert('Eskerrik asko ' + izena + '!\n\nZure mezua bidali da arrakastaz.\n\nLaster kontaktatuko zaitugu ' + email + ' helbidean.');
+
     document.getElementById('kontaktuaForm').reset();
 });
